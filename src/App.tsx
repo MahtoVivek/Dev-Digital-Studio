@@ -25,7 +25,7 @@ function App() {
 
   const gallery = [
     "https://images.unsplash.com/photo-1519741497674-611481863552",
-    "https://images.unsplash.com/photo-1511285560929-80b456fea0bc",
+    "https://www.aurusjewels.com/cdn/shop/articles/indian_wedding_planning_guide_ultimate.jpg?v=1679913681",
     "https://images.unsplash.com/photo-1519225421980-715cb0215aed",
     "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6"
   ];
