@@ -24,9 +24,9 @@ function App() {
   ];
 
   const gallery = [
-    "https://images.unsplash.com/photo-1519741497674-611481863552",
+    "https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "https://www.aurusjewels.com/cdn/shop/articles/indian_wedding_planning_guide_ultimate.jpg?v=1679913681",
-    "https://images.unsplash.com/photo-1519225421980-715cb0215aed",
+    "https://static.vecteezy.com/system/resources/previews/041/929/902/large_2x/ai-generated-an-indian-bride-and-groom-in-traditional-wedding-attire-exchanging-garlands-during-a-ritual-in-their-marriage-ceremony-photo.jpg",
     "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6"
   ];
 
