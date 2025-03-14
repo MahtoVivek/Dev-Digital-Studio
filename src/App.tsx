@@ -33,22 +33,22 @@ function App() {
   const weddingCards = [
     {
       title: "Royal Maharaja",
-      image: "https://pin.it/4BQRihMS6",
+      image: "https://i.pinimg.com/736x/2a/8a/bd/2a8abdbe12a290c88d1ce551a4d40090.jpg",
       description: "Elegant traditional design with gold foiling and intricate royal motifs"
     },
     {
       title: "Modern Mandala",
-      image: "https://pin.it/2h4s09W6I",
+      image: "https://i.pinimg.com/736x/f4/90/38/f49038feab3fab6911d2476a8eaa2ddb.jpg",
       description: "Contemporary take on classic patterns with geometric mandala designs"
     },
     {
       title: "Floral Paradise",
-      image: "https://pin.it/1hPr2FKGh",
+      image: "https://i.pinimg.com/736x/b7/04/a4/b704a44fd8f5b257c6b72957e81a4b55.jpg",
       description: "Beautiful floral motifs with traditional Indian elements and patterns"
     },
     {
       title: "Traditional Elegance",
-      image: "https://pin.it/6zCYOXJ0d",
+      image: "https://i.pinimg.com/1200x/04/49/6d/04496dc0421efa9204a438cc6ef8a064.jpg",
       description: "Classic Indian wedding invitation design with timeless appeal"
     }
   ];
