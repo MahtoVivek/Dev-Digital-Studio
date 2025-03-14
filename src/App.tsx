@@ -27,7 +27,7 @@ function App() {
     "https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "https://www.aurusjewels.com/cdn/shop/articles/indian_wedding_planning_guide_ultimate.jpg?v=1679913681",
     "https://static.vecteezy.com/system/resources/previews/041/929/902/large_2x/ai-generated-an-indian-bride-and-groom-in-traditional-wedding-attire-exchanging-garlands-during-a-ritual-in-their-marriage-ceremony-photo.jpg",
-    "https://media.istockphoto.com/id/1127700478/photo/indian-wedding-ceremony-garland-or-jai-mala-ceremony.jpg?s=1024x1024&w=is&k=20&c=7ppYHY1IrCYGwQEaqGtEowyR8TSkVOtFaVGtbwX_nZI="
+    "https://cdn-houston.wedsociety.com/wp-content/uploads/2021/09/d752b31fd69eeae30793c1d8386eccca163093640161361d512c312.jpg"
   ];
 
   const weddingCards = [
